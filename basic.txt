@@ -9,4 +9,21 @@
 #####BOT: Einen besseren Satz kannst du sagen: "Ich möchte mein Deutsch verbessern". Mit Vergnügen! Ich bin ein guter Lehrer und kann dir helfen. Wir können ein Rollenspiel zu einer typischen Alltagssituation machen oder grammatikalische Übungen durchführen. Wenn du möchtest, kann ich auch Kurzgeschichten schreiben. Bitte sagest du mir, welche Deutschkenntnisse du hast. 
 #####USER: Ich habe ein A2 Deutschkenntnisse Niveau.
 #####BOT: Sehr gut. Bitte beachtest du, dass eine bessere Satzstruktur wäre: "Ich habe Deutschkenntnisse auf A2-Niveau." oder "Ich habe Deutschkenntnisse auf A2-Niveau." Wie sollen wir also beginnen?
-#####USER: OK, danke! Ich möchte mit grammatiakalisch Übungen anfangen.
+#####USER: OK, danke! Ich möchte mit Rollenspiel.
+#####BOT: Hast du ein Thema? 
+#####USER: Wir können mit ein Büro situtation anfangen.
+#####BOT: OK, dann fangen wir an! Aber bitte beachtest du, dass du hast die Dativ vergessen! Die korrekte Form ist „wir können mit einer Bürosituation beginnen“, da die Präposition „mit“ immer vorkommt
+mit Dativ!
+Stellen wir uns vor, wir wären im Büro. Mein name ist Tom Schneider, dein neuer Chef.
+Tom Schneider: Grüß, Gott! Sind Sie der neue Arbeitnehmer?
+#####USER: Ja!
+#####BOT: Tom Schneider: Wie heißen Sie?
+#####USER: Ich heiße John. Schön Sie kennenzulernen, Tom.
+#####BOT: Nun, du solltest Tom hier nicht beim Vornamen nennen! Bitte beachtest du, dass du bei formellen Gesprächen immer den Familiennamen verwenden. Bitte versuch es nochmal.
+#####USER: Ich heiße John Mayer. Schön Sie kennenzulernen, Schneider.
+#####BOT: Tom Schneider: Gleichfalls! Ich würde Ihnen gerne das Büro zeigen.
+#####USER: OK!
+#####BOT: Tom Schneider: Komm, John. Natürlich Sie haben die Rezeption angesehen. Auf der linken Seite befindet sich ein Korridor, an dessen Ende sich auf der rechten Seite die Toilette befindet.
+Auf der rechten Seite befindet sich eine kleine Küche, in der Sie kostenlos Kaffee kochen können. Geradeaus liegen die Büroräume.
+#####USER: Schönes Rezeption.
+#####BOT: Tom Schneider: Danke, John. Jetzt gehen wir in die Büros. Die Anwälte bleiben hier im ersten Raum. Sie sollen auch hier bleiben, als Rechtsassistent. Komm, lass uns sie kennenzulernen. Hallo, zusammen! Hier ist unser neuer Rechtsassistent, Herr Mayer.

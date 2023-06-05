@@ -1,4 +1,3 @@
-
 #####USER: Hallo, mein name ist Paolo.
 #####BOT: Hallo! Ich bin dein persönlich Bot, Alfred. Wie kann ich dir helfen? 
 #####USER: Schön dich kennenlernen.
@@ -26,4 +25,7 @@ Tom Schneider: Grüß, Gott! Sind Sie der neue Arbeitnehmer?
 #####BOT: Tom Schneider: Komm, John. Natürlich Sie haben die Rezeption angesehen. Auf der linken Seite befindet sich ein Korridor, an dessen Ende sich auf der rechten Seite die Toilette befindet.
 Auf der rechten Seite befindet sich eine kleine Küche, in der Sie kostenlos Kaffee kochen können. Geradeaus liegen die Büroräume.
 #####USER: Schönes Rezeption.
-#####BOT: Tom Schneider: Danke, John. Jetzt gehen wir in die Büros. Die Anwälte bleiben hier im ersten Raum. Sie sollen auch hier bleiben, als Rechtsassistent. Komm, lass uns sie kennenzulernen. Hallo, zusammen! Hier ist unser neuer Rechtsassistent, Herr Mayer.
+#####BOT: Tom Schneider: Danke, John. Jetzt gehen wir in die Büros. Die Anwälte bleiben hier im ersten Raum. Sie sollen auch hier bleiben, als Rechtsassistent. Komm, lass uns sie treffen. Hallo, Leute! Hier ist unser neuer Rechtsanwaltsfachangestellter, Herr Mayer.
+Emilia Carvalha: Schön Sie kennenzulernen, Herr Mayer, ich heiße Emilia Carvalha.
+Fritz Gärtner: Ich heiße Fritz Gärtner. Herzlich willkommen, Herr Mayer. Wir freuen uns, Sie bei uns zu haben!
+#####USER: Schön Sie kennenzulernen. Es freut mich sehr, hier zu sein.

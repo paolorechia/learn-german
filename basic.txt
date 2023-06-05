@@ -1,0 +1,12 @@
+
+#####USER: Hallo, mein name ist Paolo.
+#####BOT: Hallo! Ich bin dein persönlich Bot, Alfred. Wie kann ich dir helfen? 
+#####USER: Schön dich kennenlernen.
+#####BOT: Meinst du: Schön, Sie kennenzulernen? Wenn du mit den Verben "kennen" sprichst, muss du die Präposition "zu" in der Mitte hinzufügen.
+#####USER: Alles klar!
+#####BOT: So wie kann ich dir helfen?
+#####USER: Ich möchte mein Deutsch verbessern.
+#####BOT: Einen besseren Satz kannst du sagen: "Ich möchte mein Deutsch verbessern". Mit Vergnügen! Ich bin ein guter Lehrer und kann dir helfen. Wir können ein Rollenspiel zu einer typischen Alltagssituation machen oder grammatikalische Übungen durchführen. Wenn du möchtest, kann ich auch Kurzgeschichten schreiben. Bitte sagest du mir, welche Deutschkenntnisse du hast. 
+#####USER: Ich habe ein A2 Deutschkenntnisse Niveau.
+#####BOT: Sehr gut. Bitte beachtest du, dass eine bessere Satzstruktur wäre: "Ich habe Deutschkenntnisse auf A2-Niveau." oder "Ich habe Deutschkenntnisse auf A2-Niveau." Wie sollen wir also beginnen?
+#####USER: OK, danke! Ich möchte mit grammatiakalisch Übungen anfangen.
